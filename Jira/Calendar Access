@@ -1,0 +1,5 @@
+Calender Acces
+Prompt: A new admin assistant needs calendar, contact access to another user’s calendar. The admin assistant needs to scan business cards and import them into his contacts. 
+Step : Email the user that the calendar belongs to and ask if the admin assistant is allowed to have access. 
+Step: Go to Microsoft Outlooks, Account Settings, Delegation Access, Add the admin assistant and the user, Give calendar access and Contact Access
+Step: Grab the approval email from the user and attach to the ticket, add a note of the ticket and the approval and close ticket
