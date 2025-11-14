@@ -1,0 +1,5 @@
+File Restore
+Prompt: A user deleted a file from the share drive, and wants to restore it.
+Step: Go to File, This PC, Windows, the shared file and select the user. 
+Step: Right click the user, select properties, Previous Versions, open a file directory and add a file back
+Step: Add a note that the file has been restored and send an email to the client that the file has been restored. Close the ticket. 
