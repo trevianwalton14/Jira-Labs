@@ -1,0 +1,9 @@
+Adobe Acrobat Issue
+Prompt: Every time the user opens a pdf file it opens up on Microsoft Edge; however	they want open up on Adobe.
+a.	Right click the pdf file and try to open the file with another application. If Adobe is not in the listing then you will have to install the application. 
+b.	Go to the Control Panel -> Programs -> Programs and Features. Check and see if Adobe is listed and if it is not then you will have to install the application.
+c.	Go to the correct Adobe website and download Adobe Acrobat. (Depends on ther environment there might be a different way to download). 
+d.	Right Click on the Pdf File and select open file with another application. Click on the Adobe application and select “Always use this app to open pdf file”. 
+e.	Test out the pdf file to see if opens with adobe by default
+f.	Add a note to the ticket to let the user know that the pdf file will now open up with adobe and that adobe wasn’t installed on the device.
+g.	Close the ticket
