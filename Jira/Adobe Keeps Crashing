@@ -1,0 +1,8 @@
+Adobe keeps crashing
+Prompt: A user Adobe application keeps crashing and won’t open any pdf files. 
+a.	The problem is that the user click on the adobe application too many times. 
+b.	Open task manager and close all the duplicate applications
+a.	Go into the Adobe Acrobat application -> click on Help -> Click on Repair Installation
+c.	Test to see if the application will open. 
+d.	Make a note on the ticket letting the user know that the problem is fixed. 
+e.	Close the ticket.  
