@@ -1,0 +1,7 @@
+Converting Pdf file to a word document
+Prompt: A user need you to convert a pdf file into a word document
+a.	Right click the pdf file -> Open the file with a different application -> select the word application
+Option two
+a.	Open the file in Adobe -> Click on save as -> save the file as a word document
+b.	Add a note to the ticket letting the user know that the file has been converted and attach the word document file.
+c.	Close the ticket. 
