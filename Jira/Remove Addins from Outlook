@@ -1,0 +1,13 @@
+Remove Adobe Acrobat Addin from outlook
+Prompt: A user has an adobe add-in on his outlook application that he wants removed. This person also wants “focused” removed from outlook application. 
+Removing Focused:
+Step: Open the user’s outlook application and go to the view tab. 
+Step: Deselect the “Show Focused Inbox” in the “Focused Inbox” section. 
+Removing Acrobat Addin:
+Step: Open the the user’s outlook application 
+Step: Sele Files
+Step: Select Options
+Step: Select Addins
+Step: Select Adobe Acrobat PDFMaker Addin, select Go
+Step: Deselect the Adobe Acrobat Addins (Could be one, might have to deselect multiple)
+
